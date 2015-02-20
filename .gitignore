@@ -1,2 +1,3 @@
 .idea/
 sms-server/node_modules/
+sms-server/config.json
